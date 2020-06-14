@@ -10,9 +10,11 @@ const wat=true;      true/false Boolean
 const wat=6;        숫자 numebr
 const wat=55.1;      소수점 숫자 float*/
 
+/* 변수이름 camelCase로 작성하기*/ 
+
 /*data 정렬
 ARRAY[] 리스트 만들때 사용
-예시) const dayOfWeek["mon","tue","wed","tue"]
+예시) const dayOfWeek = ["mon","tue","wed","tue"]
 OBJECT (Array와 함께 사용가능)
 예시) const minjuinfo={
       name: "minju",
